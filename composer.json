@@ -1,3 +1,39 @@
 {
-     "name": "mortenson/example",
+
+    "name": "mrmfamin/bots",
+
+    "description": "description",
+
+    "type": "project",
+
+    "require": {
+
+        "danog/madelineproto": "^7"
+
+    },
+
+    "license": "AGPL-3.0-only",
+
+    "authors": [
+
+        {
+
+            "name": "Mohammad Fazel Samavati",
+
+            "email": "mrmfamim835@yahoo.com"
+
+        }
+
+    ],
+
+    "autoload": {
+
+        "psr-0": {
+
+            "mrmfamim\bots": ""
+
+        }
+
+    }
+
 }

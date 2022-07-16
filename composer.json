@@ -24,16 +24,6 @@
 
         }
 
-    ],
-
-    "autoload": {
-
-        "psr-0": {
-
-            "mrmfamim\bots": ""
-
-        }
-
-    }
+    ]
 
 }
